@@ -109,9 +109,3 @@ Dataset contains valuable information that could help us optimize our operations
 
 - <u>**Most occupied Time**</u>:
 - **Lunch**-12 P.M. - 1:30 P.M., **Dinner**-6 P.M. - 8 P.M.
-
----
-
-## Author
-- <ins><b>©2023 Eileen Ip. All rights reserved</b></ins>
-- <b>[LinkedIn](https://www.linkedin.com/in/eileen-ip/)</b>
