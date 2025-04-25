@@ -27,19 +27,11 @@ Pizza Sales Analysis has a comprehensive year's worth of sales data from a ficti
     │   └── pizza_sales_db.sql       <- DB creation.
     │   └── query.sql                <- Final queries.
 
-    ├── reports            <- Folder containing the final reports/results of this project.
-    │   │
-    │   └── Pizza_Sales_Report.pdf   <- Final analysis report in PDF.
-    │   └── query_report.pdf         <- Final query report in PDF for verifying data.
+    ├── Pizza Report.pbix             <- Final reports/results of this project.
     │   
     ├── src                <- Source for this project.
         │
         ├── data           <- Datasets used and collected for this project.
-        │   
-        ├── pizza_sales_images       <- Additional images for Dashboards.
-        │
-        ├── data_dictionary.csv      <- Data Dictionary for the dataset.
-
   
 --------
 
